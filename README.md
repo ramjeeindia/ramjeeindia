@@ -1,16 +1,15 @@
 ![Design and Development](https://github.com/ramjeeindia/ramjeeindia/blob/main/Banner.png)
 <!-- ### Header profile under construction (update soon 🚀).. -->
-
-<h1 align="center">Hello Amigos 👋 </h1>
+<h1 align="center" ;style="color:purple;" class="h-14 bg-gradient-to-r from-sky-500 to-indigo-500">Hello Amigos 👋 </h1>
 <!-- <div align="center">
 <!--   <img height="150" src=""  /> 
 </div> -->
 
 
 <!--know me-->
-<h6>🔭 I’m currently working as SAP B1 Tecno Functional Consultant</h6>
-<h6>🌱 I’m currently learning Data Science, Data Analytics, Machine Learning, Artificial Intelligence.</h6>
-<h6>👯 I’m looking to collaborate on Data Analytics Projects.</h6>
+<h4>🔭 I’m currently working as SAP B1 Tecno Functional Consultant</h4>
+<h4>🌱 I’m currently learning Data Science, Data Analytics, Machine Learning, Artificial Intelligence.</h4>
+<h4>👯 I’m looking to collaborate on Data Analytics Projects.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
