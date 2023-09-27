@@ -1,5 +1,40 @@
 ![Design and Development](https://github.com/ramjeeindia/ramjeeindia/blob/main/Banner.png)
 
+<style>
+
+    .body{
+        background-image: linear-gradient(red,green);
+           background-color: blue ;
+    }
+            h1 {
+                color: red;
+                animation: mymove 3s infinite;
+            }
+.box{
+    
+    background-color: blue ;
+    background-image: linear-gradient(red,green);
+    animation: move 2s ease-in-out 0s 10 alternate;
+}
+
+@keyframes mymove {
+    from {
+        color: red;
+        }
+            to {
+                color: blue;
+                }
+            }
+    @keyframes move {
+    from{left: 0px }
+     to{left: 200px; background-color: green; transform: scale(1.5);}
+}
+            .box {
+            margin: 100px;
+            animation: move 1s ease-in-out 1000ms 100 alternate;
+            top: 200px;
+            }
+            </style>
 <!-- ### Header profile under construction (update soon 🚀).. -->
 
 <h1 align="center">Hello Amigos 👋 </h1>
@@ -10,7 +45,7 @@
 
 <!--know me-->
 <h6>🔭 I’m currently working as SAP B1 Tecno Functional Consultant</h6>
-<h6>🌱 I’m currently learning Data Science, Data Analytics, Machine Learning.</h6>
+<h6>🌱 I’m currently learning Data Science, Data Analytics, Machine Learning, Artificial Intelligence.</h6>
 <h6>👯 I’m looking to collaborate on Data Analytics Projects.</h6>
 
 <h3 align="left">Connect with me:</h3>
@@ -55,6 +90,12 @@
 
 
 <!-- ### 📊 GitHub Stats: -->
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<p><img align="left" class="box box1" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramjeeindia&show_icons=true&locale=en&layout=compact" alt="ramjeeindia" /></p>
+
+<p>&nbsp;<img align="center" class="box box2" src="https://github-readme-stats.vercel.app/api?username=ramjeeindia&show_icons=true&locale=en" alt="ramjeeindia" /></p>
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ramjeeindia&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramjeeindia&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramjeeindia&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
